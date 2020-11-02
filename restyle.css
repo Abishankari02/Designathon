@@ -414,13 +414,7 @@
         font-size: 30px;
       }
       
-      body{ 
-        background-repeat: no-repeat;
-        background-attachment: fixed;  
-        background-size: cover;
-       
-      background-image: url("kelli-tungay-2LJ4rqK2qfU-unsplash.jpg");
-      }
+ 
       .about body{
         background-image: url("pexels-lumn-399161.jpg");
       }
